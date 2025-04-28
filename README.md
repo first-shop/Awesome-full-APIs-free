@@ -429,8 +429,6 @@ This repository provides you with the most comprehensive lists of public APIs fo
 + [Juhe Data](https://www.juhe.cn/) - Provides APIs which are available in China.(**Missing English Docs**)
 + [ProgrammableWeb](https://www.programmableweb.com/) - The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web's most relied-on API Directory.
 + [Yahoo! Developer Network](https://developer.yahoo.com/everything.html) - The Yahoo Developer Network offers APIs and tools to make it easy for developers to build, advertise, enhance applications and earn money with Yahoo.
-
-## Backers
 ---
 
 No matter what API you're using for web scraping, advertising, or any other purpose, [**F-First Shop**](https://f-first.shop/en/) offers you the easiest way to integrate high-quality mobile proxies. Our proxies work across multiple geographies, giving you the flexibility to adapt them for your projects. Try them out for free!
