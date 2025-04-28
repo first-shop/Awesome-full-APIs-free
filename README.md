@@ -430,12 +430,6 @@ This repository provides you with the most comprehensive lists of public APIs fo
 + [ProgrammableWeb](https://www.programmableweb.com/) - The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web's most relied-on API Directory.
 + [Yahoo! Developer Network](https://developer.yahoo.com/everything.html) - The Yahoo Developer Network offers APIs and tools to make it easy for developers to build, advertise, enhance applications and earn money with Yahoo.
 
-## Contributors
-
-This project exists thanks to all the people who contribute.
-<a href="graphs/contributors"><img src="https://opencollective.com/Awesome_APIs/contributors.svg?width=890&button=false" /></a>
-
-
 ## Backers
 ---
 
